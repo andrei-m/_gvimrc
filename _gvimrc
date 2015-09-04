@@ -1,0 +1,11 @@
+set noswapfile
+
+let mapleader = ","
+inoremap jj <ESC>
+
+set enc=utf-8
+set number
+
+set incsearch
+set ignorecase
+set nohlsearch
